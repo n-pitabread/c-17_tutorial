@@ -15,5 +15,10 @@ sudo apt install g++
 After you install the complier, The tutorial can be complier with
 
 ```
-g++ -std=c++17 --filename.cpp-- -o --outputfile.o--
+g++ -std=c++17 <filename.cpp> -o <outputfile.o>
+```
+where `<filename.cpp>` will be the cppfile that you want to compile and `<outputfile.o>` is the output file you will use to run using command as follow:
+
+```
+./<outputfile.o>
 ```
