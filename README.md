@@ -10,7 +10,7 @@ In Ubuntu,
 sudo apt update
 sudo apt install g++
 ```
-* Make sure the version you installed support c++17
+> Make sure the version you installed support c++17
 
 After you install the complier, The tutorial can be complier with
 
